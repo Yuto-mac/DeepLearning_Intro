@@ -1,5 +1,5 @@
 import sys, os
-sys.path.append(os.pardir)
+sys.path.append('/Users/yutowilliam/AI_house/DP_Intro')
 import numpy as np
 from common.layers import *
 from common.gradient import numerical_gradient 
